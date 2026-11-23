@@ -10,9 +10,12 @@
 
 [![Download Latest APK](https://img.shields.io/badge/Download%20APK-eisai--nifalios.apk-10B981?style=for-the-badge&logo=android&logoColor=white)](https://github.com/jemangr/eisai-nifalios-release/releases/latest/download/eisai-nifalios.apk)
 [![Play Live PWA](https://img.shields.io/badge/Play%20Live%20PWA-jemangr.app%2Feisai--nifalios-84CC16?style=for-the-badge)](https://jemangr.app/eisai-nifalios/)
+[![18+](https://img.shields.io/badge/Age-18%2B-red?style=for-the-badge)](#)
 [![All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-EF4444?style=for-the-badge)](./LICENSE)
 
-[⬇️ Λήψη APK (`eisai-nifalios.apk`)](https://github.com/jemangr/eisai-nifalios-release/releases/latest/download/eisai-nifalios.apk) · [🌐 Παίξε Live (iPhone & Android)](https://jemangr.app/eisai-nifalios/) · [📜 Changelog](./CHANGELOG.md) · [🔒 Privacy Policy](./PRIVACY_POLICY.md)
+[⬇️ Λήψη APK (`eisai-nifalios.apk`)](https://github.com/jemangr/eisai-nifalios-release/releases/latest/download/eisai-nifalios.apk) · [🌐 Παίξε Live (Web PWA)](https://jemangr.app/eisai-nifalios/) · [📜 Changelog](./CHANGELOG.md) · [🔒 Privacy Policy](./PRIVACY_POLICY.md)
+
+> ⚠️ **18+ · Μόνο για ψυχαγωγία, ποτέ οδήγηση μετά από αλκοόλ.**
 
 </div>
 
@@ -56,7 +59,7 @@
 * **🗣️ Στάδιο 3 — Γλωσσοδέτης Παρέας (4″):** Πες καθαρά έναν από τους 8 ελληνικούς γλωσσοδέτες στο μικρόφωνο (live waveform) ή πάτα τις 4 λέξεις στη σωστή σειρά.
 * **🎴 Πιστοποιητικό Νηφαλιότητας 9:16:** Σκορ 0–100, εικονικό BAC (`‰`), χιουμοριστικό roast & rank + ξεχωριστά κουμπιά **💾 Αποθήκευση** (Gallery / PNG) & **📤 Κοινοποίηση** για TikTok / Reels / Stories.
 * **🏆 Solo & Παρέα (2–6 άτομα):** Αναδεικνύει τον **🛡️ Κρατάει Κλειδιά** και τον **🚕 Παίρνει Ταξί**.
-* **⚠️ Disclaimer:** Μόνο για διασκέδαση με παρέα — **ΠΟΤΕ οδήγηση μετά από κατανάλωση αλκοόλ.**
+* **⚠️ 18+ Προειδοποίηση:** Μόνο για ψυχαγωγία, ποτέ οδήγηση μετά από αλκοόλ.
 
 ---
 
