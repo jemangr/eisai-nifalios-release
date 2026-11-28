@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "tag": "v1.1.0",
+  "version": "1.2.0",
+  "tag": "v1.2.0",
   "apkUrl": "https://github.com/jemangr/eisai-nifalios-release/releases/latest/download/eisai-nifalios.apk",
-  "releaseUrl": "https://github.com/jemangr/eisai-nifalios-release/releases/tag/v1.1.0",
-  "notes": "v1.1.0: Bouncy Cartoon 3D (Gold & Goblins) UI overhaul — Pub Bar Wood & Brass 2γ theme, offline Greek GameDisplay font, glossy 3D pillow buttons, protruding hero CTA, 22 baked 3D cartoon icons, and compact above-the-fold result layout."
+  "releaseUrl": "https://github.com/jemangr/eisai-nifalios-release/releases/tag/v1.2.0",
+  "notes": "v1.2.0: 6 3D Brass Rank Medallions, 3D Spirit Level & mechanical buzzer, 25+25 tongue twisters (EL/EN), 18+ compliance, legal-safe rank titles."
 }
